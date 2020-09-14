@@ -24,3 +24,7 @@ function createUsers(users) {
 }
 
 // Votre code ici (8 lignes)
+;(async function () {
+  await Promise.all(createUsers(['Paul', 'Pierre', 'René']))
+  console.log('all users have been created !')
+})()
