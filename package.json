@@ -1,0 +1,23 @@
+{
+  "name": "bddi-exercices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pendu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyymericArn/bddi-exercices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyymericArn/bddi-exercices/issues"
+  },
+  "homepage": "https://github.com/AyymericArn/bddi-exercices#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
